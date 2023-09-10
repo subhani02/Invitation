@@ -33,7 +33,7 @@ body {
 
 }
 .card:hover {
-    transform: translateX(50%);
+    transform: translateX(70%);
 }
 .card:hover .imgBox {
     transform: rotateY(-180deg);
